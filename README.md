@@ -1,5 +1,5 @@
 # SibcoinNet
-Sibcoin client for daemon
+Sibcoin client for daemon sibcoind.exe
 
 # sibcoin.conf
 rpcuser=alice<br/>
