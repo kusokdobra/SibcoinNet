@@ -1,0 +1,9 @@
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\ConsoleSibcoinTest\bin\Debug\ConsoleSibcoinTest.exe
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\ConsoleSibcoinTest\bin\Debug\ConsoleSibcoinTest.pdb
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\ConsoleSibcoinTest\bin\Debug\SibcoinNet.dll
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\ConsoleSibcoinTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\ConsoleSibcoinTest\bin\Debug\SibcoinNet.pdb
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\ConsoleSibcoinTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\ConsoleSibcoinTest\obj\Debug\ConsoleSibcoinTest.csprojResolveAssemblyReference.cache
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\ConsoleSibcoinTest\obj\Debug\ConsoleSibcoinTest.exe
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\ConsoleSibcoinTest\obj\Debug\ConsoleSibcoinTest.pdb

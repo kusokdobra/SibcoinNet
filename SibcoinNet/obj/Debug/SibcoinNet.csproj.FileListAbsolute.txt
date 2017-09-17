@@ -1,0 +1,7 @@
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\SibcoinNet\bin\Debug\SibcoinNet.dll
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\SibcoinNet\bin\Debug\SibcoinNet.pdb
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\SibcoinNet\bin\Debug\Newtonsoft.Json.dll
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\SibcoinNet\bin\Debug\Newtonsoft.Json.xml
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\SibcoinNet\obj\Debug\SibcoinNet.csprojResolveAssemblyReference.cache
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\SibcoinNet\obj\Debug\SibcoinNet.dll
+c:\users\kusokdobra\documents\visual studio 2017\Projects\Sibcoin\SibcoinNet\SibcoinNet\obj\Debug\SibcoinNet.pdb
