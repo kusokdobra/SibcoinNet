@@ -2,7 +2,7 @@
 Sibcoin client for daemon
 
 # sibcoin.conf
-rpcuser=alice
+rpcuser=alice<br/>
 rpcpassword=password
 rpcport=8332
 
