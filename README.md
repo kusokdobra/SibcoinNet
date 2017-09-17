@@ -7,4 +7,4 @@ rpcpassword=password
 rpcport=8332
 
 # start.bat for sobcoind.exe
-sibcoind.exe -datadir=<path to Sibcoin data and conf file>
+sibcoind.exe -datadir=path_to_Sibcoin_data_and_conf_file
