@@ -3,7 +3,7 @@ Sibcoin client for daemon
 
 # sibcoin.conf
 rpcuser=alice<br/>
-rpcpassword=password
+rpcpassword=password<br/>
 rpcport=8332
 
 # start.bat for sobcoind.exe
